@@ -6,12 +6,12 @@ Devido à falta de tempo (e conhecimento!), optei por resolver o problema propos
 ## Executando
 Clonar (ou fazer o download de) o repositório.
 
-Instalar o Python 3 (eu usei o Miniconda) e o Jupyter Notebook.
+Instalar o Python 3 (eu usei o [Miniconda](https://docs.conda.io/en/latest/miniconda.html)) e o [Jupyter Notebook](https://jupyter.org/).
 
 Instalar as bibliotecas:
- - pandas
- - geopy
+ - [pandas](https://pandas.pydata.org/)
+ - [geopy](https://pypi.org/project/geopy/)
  
-Carregar o notebook ./src/data-processing.ipynb e executá-lo. 
+Carregar o notebook `./src/data-processing.ipynb` e executá-lo. 
 
-Ao término, será gravado o arquivo CSV ./output/resultados_consolidados_POIs.csv
+Ao término, será gravado o arquivo CSV `./output/resultados_consolidados_POIs.csv`.
